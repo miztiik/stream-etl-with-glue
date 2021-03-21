@@ -1,0 +1,11 @@
+{
+  "request_id": "3eb786b9-6ace-47c5-9c86-9c2907156632",
+  "name": "Deep Gnome",
+  "category": "Laptops",
+  "store_id": "store_4",
+  "evnt_time": "2021-03-20T21:39:02.478671",
+  "evnt_type": "inventory-events",
+  "sales": 73.93,
+  "contact_me": "github.com/miztiik",
+  "is_return": true
+}

@@ -9,14 +9,14 @@ setuptools.setup(
     name="stream_etl_with_glue",
     version="0.0.1",
 
-    description="An empty CDK Python app",
+    description="stream etl with glue",
     long_description=long_description,
     long_description_content_type="text/markdown",
 
     author="author",
 
-    package_dir={"": "stream_etl_with_glue"},
-    packages=setuptools.find_packages(where="stream_etl_with_glue"),
+    package_dir={"": "stacks"},
+    packages=setuptools.find_packages(where="stacks"),
 
     install_requires=[
         "aws-cdk.core==1.93.0",
