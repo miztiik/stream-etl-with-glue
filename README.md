@@ -241,9 +241,9 @@ Thank you for your interest in contributing to our project. Whether it is a bug 
 
 ### 🏷️ Metadata
 
-![miztiik-success-green](https://img.shields.io/badge/Miztiik:Automation:Level-200-orange)
+![miztiik-success-green](https://img.shields.io/badge/Miztiik:Automation:Level-300-orange)
 
-**Level**: 200
+**Level**: 300
 
 [1]: https://docs.aws.amazon.com/glue/latest/dg/add-job-streaming.html#create-job-streaming-restrictions
 
