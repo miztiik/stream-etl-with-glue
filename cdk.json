@@ -1,6 +1,6 @@
 {
   "app": "python3 app.py",
-  "versionReporting": "false",
+  "versionReporting": false,
   "requireApproval": "never",
   "context": {
     "project": "stream-etl-with-glue",
