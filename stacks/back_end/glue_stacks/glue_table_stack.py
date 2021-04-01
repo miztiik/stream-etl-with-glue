@@ -14,8 +14,8 @@ class GlueTableStack(cdk.Stack):
     ) -> None:
         super().__init__(scope, construct_id, **kwargs)
 
-        self.template_options.description = "Miztiik Automation: Sales Txns Dataset."
-        self.template_options.metadata = {"License": "MIT-0"}
+        self.template_options.description = "Miztiik Automation: Sales Transactions Table Stack."
+        self.template_options.metadata = {"License": "Miztiik Corp."}
 
         # CloudFormation Parameters
 
